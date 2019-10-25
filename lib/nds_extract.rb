@@ -51,10 +51,13 @@ end
 
 
 def gross_per_studio(collection)
-result = {}
+  result = {}
 
+  j = 0 
+  
+  while j < collection.length
 
-result 
+  result 
 
 end
 
