@@ -40,9 +40,13 @@ def movies_with_director_key(name, movies_collection)
   # returned by this method.
   #
   result = []
-  i = 0 
+  j = 0 
+  
+  while j < movies_collection.length
   
   
+  j+=1 
+  end
   
   
   # INPUT:
