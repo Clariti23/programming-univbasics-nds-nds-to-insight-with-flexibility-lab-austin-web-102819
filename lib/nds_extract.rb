@@ -51,7 +51,10 @@ end
 
 
 def gross_per_studio(collection)
+result = {}
 
+
+result 
 
 end
 
