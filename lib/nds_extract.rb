@@ -39,10 +39,15 @@ def movies_with_director_key(name, movies_collection)
   # and accumulate the returned Array of movies into a new Array that's
   # returned by this method.
   #
+  
+  
+  
   # INPUT:
   # * name: A director's name
   # * movies_collection: An Array of Hashes where each Hash represents a movie
   #
+  
+  
   # RETURN:
   #
   # Array of Hashes where each Hash represents a movie; however, they should all have a
