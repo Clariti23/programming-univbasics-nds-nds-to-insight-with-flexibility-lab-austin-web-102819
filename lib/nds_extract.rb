@@ -44,7 +44,7 @@ def movies_with_director_key(name, movies_collection)
   
   while j < movies_collection.length
   movie_data = movies_collection[j]
-  
+  result.push
   
   j+=1 
   end
